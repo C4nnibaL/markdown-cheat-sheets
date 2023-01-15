@@ -5,6 +5,17 @@
 
 Additional resource - https://docs.redis.com/latest/cheatsheet/?utm_source=google&utm_medium=cpc&utm_term=&utm_campaign=why_re-land_caching-perfmax-us-19325065386&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIZJ5BTL5GZSO3p__-lVoqKh-OuJQLCJVkB2zWJModtQrz9aJl5CeLhoCQrgQAvD_BwE
 
+❕This is Important
+
+❗This is very important
+
+:zap: Ignore at your own risk
+
+:memo: Take Note of this
+
+:warning: WARNING
+
+
 This repo contains all the cheat-sheets mentioned on my [blog](dev.to/godcrampy).
 
 ## Link to Original Posts
