@@ -3,6 +3,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/godcrampy/cheat-sheets?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/godcrampy/cheat-sheets?style=social)
 
+Additional resource - https://docs.redis.com/latest/cheatsheet/?utm_source=google&utm_medium=cpc&utm_term=&utm_campaign=why_re-land_caching-perfmax-us-19325065386&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIZJ5BTL5GZSO3p__-lVoqKh-OuJQLCJVkB2zWJModtQrz9aJl5CeLhoCQrgQAvD_BwE
+
 This repo contains all the cheat-sheets mentioned on my [blog](dev.to/godcrampy).
 
 ## Link to Original Posts
