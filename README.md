@@ -15,6 +15,12 @@ Additional resource - https://docs.redis.com/latest/cheatsheet/?utm_source=googl
 
 :warning: WARNING
 
+> **Note**
+> In vitual environments for containmente pause or suspend the VM.
+
+> **Warning**
+> This is a warning
+
 
 This repo contains all the cheat-sheets mentioned on my [blog](dev.to/godcrampy).
 
